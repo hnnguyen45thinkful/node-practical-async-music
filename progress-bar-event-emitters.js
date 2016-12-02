@@ -1,0 +1,2 @@
+// Try It!
+// Try rewriting your progress bar example from the previous exercise to use the Node.js EventEmitter class. Try registering and unregistering callbacks for each event to make sure that it is working as you expect.
